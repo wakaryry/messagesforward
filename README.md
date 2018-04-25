@@ -154,3 +154,7 @@ A *test = [[A alloc] init];
 我们需要知道为什么！
 
 为什么会有这种代码？这样写的作用是什么？为什么要这样写？
+
+**对消息转发消息的了解：**
+
+[https://www.cnblogs.com/junhuawang/p/5196291.html](https://www.cnblogs.com/junhuawang/p/5196291.html)
